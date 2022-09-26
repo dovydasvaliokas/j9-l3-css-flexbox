@@ -1,0 +1,16 @@
+.meniu-juosta {
+    display: flex;
+    gap: 5px;
+}
+
+.mygtukai {
+    border: 1px solid black;
+    flex-grow: 1;
+}
+
+.mygtuko-nuoroda {
+    display: block;
+    text-align: center;
+    text-decoration: none;
+    padding: 0.5em;
+}
